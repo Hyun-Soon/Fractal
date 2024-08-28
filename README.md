@@ -4,11 +4,7 @@ This project renders the Mandelbrot, Julia, and Burning Ship fractals. You can u
 
 [Youtube Link](https://youtu.be/DcRmPqx5au4?si=dWbNp33MGA-0dSXQ)
 
-![madelbrot](https://github.com/user-attachments/assets/32f1ab0a-691a-4e0a-8ca7-4a86318cfb75)
-
-![julia](https://github.com/user-attachments/assets/4db81252-3c9d-4bf5-80fc-0c26077333a2)
-
-![burning_ship](https://github.com/user-attachments/assets/6ee8d254-c662-4676-affa-375418eac358)
+|![madelbrot](https://github.com/user-attachments/assets/32f1ab0a-691a-4e0a-8ca7-4a86318cfb75)|![julia](https://github.com/user-attachments/assets/4db81252-3c9d-4bf5-80fc-0c26077333a2)|![burning_ship](https://github.com/user-attachments/assets/6ee8d254-c662-4676-affa-375418eac358)|
 
 ## 🚀 Features
 
