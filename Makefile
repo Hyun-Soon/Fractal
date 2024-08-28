@@ -27,7 +27,7 @@ SRCS = $(addprefix $(PREFIX), $(SRCS_NAME))
 CC = cc
 CFLAGS = -Wall -Wextra -Werror -c
 HEADER = ./headers
-NAME = fractol
+NAME = fractal
 LIBFT = ft
 
 all : $(NAME)
