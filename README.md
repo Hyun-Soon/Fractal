@@ -10,6 +10,13 @@ This project renders the Mandelbrot, Julia, and Burning Ship fractals. You can u
 
 ![burning_ship](https://github.com/user-attachments/assets/6ee8d254-c662-4676-affa-375418eac358)
 
+## 🚀 Features
+
+- **Mandelbrot Set Rendering**: Generate high-quality images of the Mandelbrot set.
+- **Julia Set Rendering**: Customize and render Julia sets with various parameters.
+- **Burning Ship Fractal Rendering**: Explore the unique and lesser-known Burning Ship fractal.
+- **Change Color**: Change colors by pressing 'c'.
+
 ## 📜 Prerequisites
 
 To compile and run this program, you'll need:
@@ -17,13 +24,6 @@ To compile and run this program, you'll need:
 - [minilibX](https://github.com/42Paris/minilibx-linux)
 - A C/C++ compiler (e.g., GCC)
 - Make (optional, for easier compilation)
-
-## 🚀 Features
-
-- **Mandelbrot Set Rendering**: Generate high-quality images of the Mandelbrot set.
-- **Julia Set Rendering**: Customize and render Julia sets with various parameters.
-- **Burning Ship Fractal Rendering**: Explore the unique and lesser-known Burning Ship fractal.
-- **Change Color**: Change colors by pressing 'c'.
 
 ## 💻 Installation
 
